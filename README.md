@@ -10,6 +10,10 @@ ___________
 
 This is a demonstration of web design
 
+
+![network brackets illustration](network-brackets.png)
+
+
 Links
 
 [NYU] (https://www.nyu.edu/)
@@ -27,3 +31,7 @@ Ordered list
 1. Item
 2. Item
 3. Item
+
+
+Markdown reference for [Intro to web design](https://cs.nyu.edu/courses/fall24/CSCI-UA.0004-004/) :books :computer :surfer:
+
