@@ -33,5 +33,5 @@ Ordered list
 3. Item
 
 
-Markdown reference for [Intro to web design](https://cs.nyu.edu/courses/fall24/CSCI-UA.0004-004/) :books :computer :surfer:
+Markdown reference for [Intro to web design](https://cs.nyu.edu/courses/fall24/CSCI-UA.0004-004/) :books: :computer: :surfer:
 
