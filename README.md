@@ -15,3 +15,15 @@ Links
 [NYU] (https://www.nyu.edu/)
 
 > Wherever you are, **be** there *totally*. -Eckhart Tolle
+
+**You are *all* welcome here.**
+
+Unordered list
+- Item
+- Item
+- Item
+
+Ordered list
+1. Item
+2. Item
+3. Item
